@@ -38,7 +38,7 @@ Für die Erzeugung statischer Methoden oder Attribute ist folgende Notation in y
 
 <img src="https://i.ibb.co/wp8L2Hs/static-Method.png" alt="static-Method"  align="left" width="250" />
 
-<br></br>
+<br>
 
 #### <br>
 
@@ -56,7 +56,7 @@ Für eine Abstrakte Klasse ist folgende Notation in yEd notwendig: Unter der Ein
 
 <br></br>
 
-## <br>Test-Komponenten Beschreibungen <a name ="test"></a>
+## <br><br>Test-Komponenten Beschreibungen <a name ="test"></a>
 
 ### Test: CodeGenerator <a name ="test-codegenerator"></a>
 
