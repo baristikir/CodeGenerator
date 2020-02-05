@@ -36,7 +36,7 @@ Für die Erzeugung statischer Methoden oder Attribute ist folgende Notation in y
 
 *Beispiel (siehe Bild):*
 
-<img src="https://i.ibb.co/wp8L2Hs/static-Method.png" alt="static-Method"  align="left" style="zoom:50%;" />
+<img src="https://i.ibb.co/wp8L2Hs/static-Method.png" alt="static-Method"  align="left" width="250" />
 
 <br></br>
 
@@ -50,7 +50,7 @@ Für eine Abstrakte Klasse ist folgende Notation in yEd notwendig: Unter der Ein
 
 ​																																			*Beispiel (siehe Bild):*
 
-<img src="https://i.ibb.co/c3s7jqh/abstract-class.png" alt="abstract-class" align="right" style="zoom:40%;" />
+<img src="https://i.ibb.co/c3s7jqh/abstract-class.png" alt="abstract-class" align="right" width="200" />
 
 <br></br>
 
