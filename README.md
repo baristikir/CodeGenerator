@@ -44,6 +44,10 @@ Für die Erzeugung statischer Methoden oder Attribute ist folgende Notation in y
 
 
 
+
+
+
+
 #### Abstract <a name ="abstract"></a>
 
 Für eine Abstrakte Klasse ist folgende Notation in yEd notwendig: Unter der Einstellung *Beschriftung* ist der Schriftstil auf *kursiv* zu setzen.
@@ -51,6 +55,12 @@ Für eine Abstrakte Klasse ist folgende Notation in yEd notwendig: Unter der Ein
 ​																																			*Beispiel (siehe Bild):*
 
 <img src="https://i.ibb.co/c3s7jqh/abstract-class.png" alt="abstract-class" align="right" style="zoom:40%;" />
+
+
+
+
+
+
 
 
 
