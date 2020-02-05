@@ -5,10 +5,10 @@
       1.  [Static](#static)
       2.  [Abstract](#abstract)
 2. [Test-Komponenten Beschreibungen](#test)
-   1. Test: CodeGenerator](#test-codegenerator)
-   2. Test: Controller](#test-controller)
-   3. Test: Reader](#test-reader)
-   4. Test: Generator](#test-generator)
+   1. [Test: CodeGenerator](#test-codegenerator)
+   2. [Test: Controller](#test-controller)
+   3. [Test: Reader](#test-reader)
+   4. [Test: Generator](#test-generator)
 3. [Authors](#authors)
 4. [License](#license) 
 
@@ -22,13 +22,13 @@ Dieses Programm erstellt ".cs"-Dateien und füllt sie mit generiertem Quelltext,
 
 Nach dem Starten des Programms sollten zunächst, die fertige ".graphml"-Datei, als Quelle, und ein gewünschter lokaler Ausgabeort ausgewählt werden. Zu beachten ist, dass das Programm nur eine korrekte Form der ".graphml"-Datei akzeptiert.
 
-### yEd-Notation <a name="yed"></a>
+### <div>yEd-Notation <a name="yed"></a>
 
 In yEd ist nur die Palette, der UML Elemente, gültig. Zudem sind auch nur zwei Elemente richtig realisierbar vom Programm,  Elemente: **"Klasse" **& **"Generalisierung"**. Für die Umsetzung des Klassen Diagramms gelten die Allgemeinen Notations Regeln für die UML-Klassendiagramme, nach der C#-Ordnung.
 
 <img src="https://i.ibb.co/QNmTYdG/Bildschirmfoto-2020-02-05-um-21-42-00.png" alt="Palette" width="300" />
 
-
+</div>
 
 #### <br>Static <a name ="static"></a>
 
@@ -44,7 +44,7 @@ Für die Erzeugung statischer Methoden oder Attribute ist folgende Notation in y
 
 #### <br>
 
-#### <br>Abstract <a name ="abstract"></a>
+#### <br><div>Abstract <a name ="abstract"></a>
 
 Für eine Abstrakte Klasse ist folgende Notation in yEd notwendig: Unter der Einstellung *Beschriftung* ist der Schriftstil auf *kursiv* zu setzen.
 
@@ -52,11 +52,9 @@ Für eine Abstrakte Klasse ist folgende Notation in yEd notwendig: Unter der Ein
 
 <img src="https://i.ibb.co/c3s7jqh/abstract-class.png" alt="abstract-class" align="left" width="200" />
 
-<br></br>
+</div>
 
-<br></br>
-
-## <br><br>Test-Komponenten Beschreibungen <a name ="test"></a>
+## <br>Test-Komponenten Beschreibungen <a name ="test"></a>
 
 ### Test: CodeGenerator <a name ="test-codegenerator"></a>
 
