@@ -1,16 +1,20 @@
 # CodeGenerator
 
 1. [Verwendung](#verwendung)
+
    1.1 [yEd-Notation](#yed)
    	1.1.1 [Static](#static)
    	1.1.2 [Abstract](#abstract)
-2. [Test-Komponenten Beschreibungen](#Test-komponenten Beschreibungen)
-   3.1[Test: CodeGenerator](#Test: CodeGenerator)
-   3.2[Test: Controller](#Test: Codegenerator)
-   3.3[Test: Reader](#Test: Reader)
-   3.4[Test: Generator](#Test: Generator)
-3. [Authors](#Authors)
-4. [License](#License) 
+
+2. [Test-Komponenten Beschreibungen](#test)
+   3.1[Test: CodeGenerator](#test-codegenerator)
+   3.2[Test: Controller](#test-controller)
+   3.3[Test: Reader](#test-reader)
+   3.4[Test: Generator](#test-generator)
+
+3. [Authors](#authors)
+
+4. [License](#license) 
 
 
 
