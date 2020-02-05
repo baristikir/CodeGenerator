@@ -1,19 +1,15 @@
 # CodeGenerator
 
 1. [Verwendung](#verwendung)
-
-   1.1 [yEd-Notation](#yed)
-   	1.1.1 [Static](#static)
-   	1.1.2 [Abstract](#abstract)
-
+   1. [yEd-Notation](#yed)
+      1.  [Static](#static)
+      2.  [Abstract](#abstract)
 2. [Test-Komponenten Beschreibungen](#test)
-   3.1[Test: CodeGenerator](#test-codegenerator)
-   3.2[Test: Controller](#test-controller)
-   3.3[Test: Reader](#test-reader)
-   3.4[Test: Generator](#test-generator)
-
+   1. Test: CodeGenerator](#test-codegenerator)
+   2. Test: Controller](#test-controller)
+   3. Test: Reader](#test-reader)
+   4. Test: Generator](#test-generator)
 3. [Authors](#authors)
-
 4. [License](#license) 
 
 
@@ -42,7 +38,7 @@ Für die Erzeugung statischer Methoden oder Attribute ist folgende Notation in y
 
 <img src="https://i.ibb.co/wp8L2Hs/static-Method.png" alt="static-Method"  align="left" style="zoom:50%;" />
 
-
+<br></br>
 
 
 
@@ -56,13 +52,13 @@ Für eine Abstrakte Klasse ist folgende Notation in yEd notwendig: Unter der Ein
 
 <img src="https://i.ibb.co/c3s7jqh/abstract-class.png" alt="abstract-class" align="right" style="zoom:40%;" />
 
+<br></br>
 
 
 
 
 
-
-
+<br></br>
 
 ## Test-Komponenten Beschreibungen <a name ="test"></a>
 
