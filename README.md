@@ -26,11 +26,11 @@ Nach dem Starten des Programms sollten zunächst, die fertige ".graphml"-Datei, 
 
 In yEd ist nur die Palette, der UML Elemente, gültig. Zudem sind auch nur zwei Elemente richtig realisierbar vom Programm,  Elemente: **"Klasse" **& **"Generalisierung"**. Für die Umsetzung des Klassen Diagramms gelten die Allgemeinen Notations Regeln für die UML-Klassendiagramme, nach der C#-Ordnung.
 
-<img src="https://i.ibb.co/QNmTYdG/Bildschirmfoto-2020-02-05-um-21-42-00.png" alt="Palette" style="zoom:50%;" />
+<img src="https://i.ibb.co/QNmTYdG/Bildschirmfoto-2020-02-05-um-21-42-00.png" alt="Palette" width="300" />
 
 
 
-#### Static <a name ="static"></a>
+#### <br>Static <a name ="static"></a>
 
 Für die Erzeugung statischer Methoden oder Attribute ist folgende Notation in yEd notwendig: Nach dem *Access-Modifier (falls vorhanden)* ist das Zeichen **'*'** notwendig. 
 
@@ -40,11 +40,7 @@ Für die Erzeugung statischer Methoden oder Attribute ist folgende Notation in y
 
 <br></br>
 
-
-
-
-
-#### Abstract <a name ="abstract"></a>
+#### <br>Abstract <a name ="abstract"></a>
 
 Für eine Abstrakte Klasse ist folgende Notation in yEd notwendig: Unter der Einstellung *Beschriftung* ist der Schriftstil auf *kursiv* zu setzen.
 
@@ -54,13 +50,9 @@ Für eine Abstrakte Klasse ist folgende Notation in yEd notwendig: Unter der Ein
 
 <br></br>
 
-
-
-
-
 <br></br>
 
-## Test-Komponenten Beschreibungen <a name ="test"></a>
+## <br>Test-Komponenten Beschreibungen <a name ="test"></a>
 
 ### Test: CodeGenerator <a name ="test-codegenerator"></a>
 
